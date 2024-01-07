@@ -1,5 +1,5 @@
-<h1 align="center">hi 👋, i am irem ozdemir</h1>
-<h3 align="center">a computer science student passionate about programming</h3>
+<h1 align="center">Hi 👋, I'm irem ozdemir</h1>
+<h3 align="center">computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremozdmr&label=Profile%20views&color=0e75b6&style=flat" alt="iremozdmr" /> </p>
 
