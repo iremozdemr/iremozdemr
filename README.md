@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Irem Ozdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
+<br>
+
 - 🔭 I’m currently working on **web development**
 
 - 💬 Ask me about **java,python,html and css**
