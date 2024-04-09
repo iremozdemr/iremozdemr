@@ -4,10 +4,9 @@
 <br>
 
 - 🔭 I’m currently working on **web development**
-
-- 💬 Ask me about **java,python,html and css**
-
-- 📫 How to reach me **iremozdemirwww3@gmail.com**
+- 🧠 I’m interested in **Software Engineering, Frontend Development and Cybersecurity**
+- 💼 I’m looking for a part-time job
+- 📫 You can reach me via **iremozdemirwww3@gmail.com**
 
 <br>
 
