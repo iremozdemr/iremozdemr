@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working on web development
-- 🧠 I’m interested in software Engineering and frontend development
+- 🧠 I’m interested in software engineering and frontend development
 - 💼 I’m looking for a part-time job
 - 📫 You can reach me via **iremozdemirwww3@gmail.com**
 
