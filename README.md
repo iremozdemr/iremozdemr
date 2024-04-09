@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **iremozdemirwww3@gmail.com**
 
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremozdemr&label=Profile%20views&color=0e75b6&style=flat" alt="iremozdemr" /> </p>
 
