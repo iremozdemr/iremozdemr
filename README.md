@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Irem Ozdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
+- 🔭 I’m currently working on **web development**
+
+- 💬 Ask me about **java,python,html and css**
+
+- 📫 How to reach me **iremozdemirwww3@gmail.com**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremozdemr&label=Profile%20views&color=0e75b6&style=flat" alt="iremozdemr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iremozdemr" alt="iremozdemr" /></a> </p>
