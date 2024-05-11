@@ -1,4 +1,3 @@
-theme=onedark
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
@@ -13,7 +12,7 @@ theme=onedark
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremozdemr&label=Profile%20views&color=0e75b6&style=flat" alt="iremozdemr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iremozdemr" alt="iremozdemr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iremozdemr&theme=onedark&" alt="iremozdemr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
