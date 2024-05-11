@@ -41,3 +41,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=1&color=5)](https://visitcount.itsvg.in)
