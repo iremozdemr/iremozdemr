@@ -44,7 +44,7 @@
 
 <h3 align="left">LeetCode Stats:</h3>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/iremozdmr?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/iremozdmr?theme=onedark&font=baloo&extension=null)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=1&color=5)](https://visitcount.itsvg.in)
