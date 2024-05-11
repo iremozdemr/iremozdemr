@@ -42,6 +42,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+---
 <h3 align="left">LeetCode Stats:</h3>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/iremozdmr?theme=auto&font=baloo&extension=null)
