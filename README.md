@@ -30,7 +30,7 @@
 
 <h3 align="left">Github Trophies:</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=iremozdemr&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iremozdemr&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Languages and Tools:</h3>
 
