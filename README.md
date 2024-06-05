@@ -1,3 +1,6 @@
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=&text2=a%20computer%20science%20student%20passionate%20about%20programming&width=900&height=400)
+
+
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
