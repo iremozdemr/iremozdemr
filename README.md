@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/github-contribution-grid-snake-dark.svg)
+
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
