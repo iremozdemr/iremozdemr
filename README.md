@@ -50,8 +50,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=1&color=5)](https://visitcount.itsvg.in)
-
----
-
-<h3 align="left">Visitor Count:</h3>
-<img src="https://profile-counter.glitch.me/iremozdemr&theme=onedark/count.svg" />
