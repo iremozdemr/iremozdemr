@@ -50,5 +50,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iremozdmr?theme=light&font=Khand&ext=activity)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/iremozdmr?theme=onedark&font=Khand&ext=activity)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=1&color=5)](https://visitcount.itsvg.in)
