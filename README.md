@@ -54,4 +54,4 @@
 ---
 
 <h3 align="left">Visitor Count:</h3>
-<img src="https://profile-counter.glitch.me/iremozdemr/count.svg" />
+<img src="https://profile-counter.glitch.me/iremozdemr&theme=onedark/count.svg" />
