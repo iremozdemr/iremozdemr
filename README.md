@@ -44,7 +44,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=1&color=5)](https://visitcount.itsvg.in)
 
+<!--
 <img src="https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/snake.svg" alt="Snake animation" />
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/snake-dark.svg">
