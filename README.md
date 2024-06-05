@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iremozdemr/iremozdemr/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+<img src="https://raw.githubusercontent.com/iremozdemr/iremozdemr/main/profile-summary-card-output/default/2-most-commit-language.svg"></br>
 
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
