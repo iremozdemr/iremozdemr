@@ -1,5 +1,3 @@
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
@@ -44,6 +42,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&hide_border=true" width="100%"/>
 
 ---
 <h3 align="left">LeetCode Stats:</h3>
