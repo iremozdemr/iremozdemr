@@ -1,3 +1,5 @@
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
