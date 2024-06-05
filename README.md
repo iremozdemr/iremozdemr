@@ -1,5 +1,3 @@
-<img src="https://profile-counter.glitch.me/iremozdemr/count.svg" />
-
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
@@ -52,3 +50,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=1&color=5)](https://visitcount.itsvg.in)
+
+---
+
+<h3 align="left">Visitor Count:</h3>
+<img src="https://profile-counter.glitch.me/iremozdemr/count.svg" />
