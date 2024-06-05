@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/snake.svg" alt="Snake animation" />
-
-###
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
@@ -46,3 +43,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=1&color=5)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/snake.svg" alt="Snake animation" />
