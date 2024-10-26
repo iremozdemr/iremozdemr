@@ -36,9 +36,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iremozdmr?theme=light&font=Khand&ext=activity)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=1&color=5)](https://visitcount.itsvg.in)
-
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+---
 
 <!--
 <img src="https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/snake.svg" alt="Snake animation" />
