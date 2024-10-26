@@ -24,10 +24,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&hide_border=true" width="100%"/>
 
+![](https://github-contributor-stats.vercel.app/api?username=iremozdemr&limit=5&theme=onedark&hide_border=false&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=iremozdemr&limit=5&theme=onedark&hide_border=false&combine_all_yearly_contributions=true)
 
 ---
 <h3 align="left">LeetCode Stats:</h3>
