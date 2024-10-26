@@ -8,8 +8,6 @@
 - 💼 I’m looking for a part-time job
 - 📫 You can reach me via **iremozdemirwww3@gmail.com**
 
-![Metrics](https://metrics.lecoq.io/iremozdemr?)
-
 ---
 
 <h3 align="left">Connect With Me:</h3> <p align="left"> <a href="https://github.com/iremozdemr" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/irem-ozdmr" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://medium.com/@iremozdemirwww3" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.leetcode.com/iremozdmr" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
