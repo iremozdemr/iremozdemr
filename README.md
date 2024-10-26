@@ -30,16 +30,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=iremozdemr&limit=5&theme=onedark&hide_border=false&combine_all_yearly_contributions=true)
 
+[![](https://visitcount.itsvg.in/api?id=iremozdemr&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 ---
 <h3 align="left">LeetCode Stats:</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iremozdmr?theme=light&font=Khand&ext=activity)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iremozdemr&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
----
-
 <!--
 <img src="https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/snake.svg" alt="Snake animation" />
 -->
