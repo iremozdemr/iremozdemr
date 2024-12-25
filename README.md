@@ -1,3 +1,5 @@
+https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false
+
 <h1 align="center">hi 👋, i'm irem özdemir</h1>
 <h3 align="center">a computer science student passionate about programming</h3>
 
