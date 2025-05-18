@@ -33,7 +33,7 @@
 
 
 
-<div align="center">
+<div align="left">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&hide_border=true" width="450px" />
 
