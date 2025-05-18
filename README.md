@@ -31,24 +31,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_progress=true&hide=cython,nasl,cmake)<br/>
 
-
-<img display="block" src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&hide_border=true" width="450px" />
-
-<img display="block" src="https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" width="450px" />
-
-<img display="block" src="https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false" width="450px" />
-
-<img display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_progress=true&hide=cython,nasl,cmake" width="450px" />
-
-
-<!---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
--->
-
-<!---
-[![](https://visitcount.itsvg.in/api?id=iremozdemr&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
--->
-
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
@@ -66,3 +48,25 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iremozdemr/iremozdemr/output/snake.svg">
 </picture>
+
+
+
+
+
+<!---
+<img display="block" src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&hide_border=true" width="450px" />
+
+<img display="block" src="https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" width="450px" />
+
+<img display="block" src="https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false" width="450px" />
+
+<img display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_progress=true&hide=cython,nasl,cmake" width="450px" />
+-->
+
+<!---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+-->
+
+<!---
+[![](https://visitcount.itsvg.in/api?id=iremozdemr&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+-->
