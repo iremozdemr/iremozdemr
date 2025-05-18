@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm irem özdemir</h1>
+<h1 align="center">hi 👋🏻, i'm irem özdemir</h1> 
 <h3 align="center">a computer science student passionate about programming</h3>
 
 <br>
@@ -35,7 +35,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 -->
 
+<!---
 [![](https://visitcount.itsvg.in/api?id=iremozdemr&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+-->
+
+[![](https://visitcount.itsvg.in/api?id=iremozdemr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 <h3 align="left">LeetCode Stats:</h3>
