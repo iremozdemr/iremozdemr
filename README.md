@@ -29,7 +29,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide=cython,nasl,cmake)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&size_weight=0.5&count_weight=0.5include_all_commits=true&count_private=true&layout=donut&hide=cython,nasl,cmake)<br/>
 
 <!---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
