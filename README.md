@@ -27,7 +27,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&hide_border=true" width="70%"/>
 
-![](https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&width=70%)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_progress=true&hide=cython,nasl,cmake)<br/>
 
