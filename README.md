@@ -29,13 +29,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=cython,nasl,cmake)<br/>
 
 <!---
-[![](https://visitcount.itsvg.in/api?id=iremozdemr&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 -->
+
+[![](https://visitcount.itsvg.in/api?id=iremozdemr&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 <h3 align="left">LeetCode Stats:</h3>
