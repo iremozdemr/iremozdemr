@@ -32,18 +32,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_progress=true&hide=cython,nasl,cmake)<br/>
 
 
+<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&hide_border=true" width="450px" />
 
-<div align="left">
-  
-  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=iremozdemr&theme=one-dark&hide_border=true" width="450px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" width="450px" />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iremozdemr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" width="450px" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false" width="450px" />
 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iremozdemr&theme=onedark&hide_border=false" width="450px" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_progress=true&hide=cython,nasl,cmake" width="450px" />
-
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremozdemr&theme=onedark&hide_border=false&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_progress=true&hide=cython,nasl,cmake" width="450px" />
 
 
 <!---
