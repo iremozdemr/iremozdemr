@@ -36,7 +36,7 @@
 ---
 <h3 align="left">LeetCode Stats:</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/iremozdmr?theme=light&font=Khand&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/iremozdmr?theme=light&font=Khand&ext=contest)
 
 ---
 <!--
