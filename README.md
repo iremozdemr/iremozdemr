@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on machine learning
 - 🧠 I’m interested in software engineering and robotics
-- 💼 I’m looking for a part-time job
+- 💼 I’m open to new opportunities and collaborations
 - 📫 You can reach me via **iremozdemirwww3@gmail.com**
 
 ---
